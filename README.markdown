@@ -3,4 +3,4 @@
 ### 小小标题
 This is a **bold** *italic* text sample.
 
-This is a [hyperlink](https://google.com).
+This is a [hyperlink](https://google.com/ncr).
